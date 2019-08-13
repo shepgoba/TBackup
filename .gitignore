@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/tbackup
+tbackup.so
+tbackup.dylib
+tbackup.dll
+tbackup.a
+tbackup.lib
+tbackup-test-*
+*.exe
+*.o
+*.obj
+*.lst

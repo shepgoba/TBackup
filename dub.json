@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"shepgoba"
+	],
+	"copyright": "Copyright © 2019, shepgoba",
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"versions": ["DerelictSDL2_Static"],
+
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "tbackup"
+}
